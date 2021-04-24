@@ -1,0 +1,39 @@
+.linecss{
+    position: absolute;
+width: 1349px;
+height: 0px;
+left: 0px;
+top: 66px;
+border: 3px solid #FF6109;
+
+}
+
+.loginform{
+
+     margin-top: 4rem;
+     font-size: 2px;
+     text-align: center;
+     margin-bottom: 2rem;
+}
+
+.formcss{
+    margin-top: 2rem;
+    margin-left: 29rem;
+}
+
+.labelcss{
+    font-weight: bold;
+    margin-right: 1rem;
+}
+
+.inputcss{
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+}
+
+
+.inputcss1{
+    width:45.8%;
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+}

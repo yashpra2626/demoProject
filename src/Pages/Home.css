@@ -1,0 +1,509 @@
+.homepage{
+    position: absolute;
+width: 1349px;
+height: 1000px;
+left: 0px;
+top: 70px;
+
+background: linear-gradient(180deg, #FAFF09 0%, rgba(255, 255, 255, 0) 100%), #FF9D1A;
+border: 1px solid #EF2020;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.linecss{
+position: absolute;
+width: 1349px;
+height: 0px;
+left: 0px;
+top: 66px;
+border: 3px solid #FF6109;
+
+}
+
+.ellipse{
+background: #FFFFFF;
+position: absolute;
+width: 500px;
+height: 276px;
+left: 127px;
+top: 147px;
+border-radius: 50%;
+
+
+}
+
+.ellipse h3{
+    margin-top: 3rem;
+    text-align: center;
+    color: #152DFF;
+}
+
+.ellipse p{
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem;
+    padding-top: 1rem;
+}
+
+.fontforhead{
+    position: absolute;
+width: 1351px;
+height: 33px;
+left: 50px;
+bottom: 445px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: 900;
+font-size: 32px;
+line-height: 31px;
+/* or 48% */
+
+letter-spacing: 0.83px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.font2{
+    position: absolute;
+width: 708px;
+height: 31px;
+left: 280px;
+top: 573px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: 900;
+font-size: 28px;
+line-height: 31px;
+/* identical to box height, or 65% */
+
+letter-spacing: 0.83px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+.inputdiv{
+    position: absolute;
+width: 183px;
+height: 34px;
+left: 132px;
+top: 695px;
+background: #FFFFFF;
+}
+
+.btndiv{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 16px;
+
+position: absolute;
+width: 73px;
+height: 34px;
+left: 316px;
+top: 695px;
+font-weight: bold;
+background: #FAFF0D;
+box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.25);
+}
+
+.input1{
+    position: absolute;
+width: 64px;
+height: 24px;
+left: 441px;
+top: 700px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 24px;
+/* identical to box height, or 50% */
+
+letter-spacing: 0.3px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+.input2{
+    position: absolute;
+width: 156px;
+height: 34px;
+left: 530px;
+top: 695px;
+
+
+background: #FAFF0D;
+
+}
+
+.input2 button{
+    height: 34px;
+    background: darkorange;
+    font-weight: bold;
+    
+}
+
+.download1{
+    position: absolute;
+width: 691px;
+height: 42px;
+left: 122px;
+top: 800px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 42px;
+color: #0f0101;
+}
+
+.download2{
+    position: absolute;
+width: 691px;
+height: 42px;
+left: 952px;
+top: 800px;
+
+font-family: Roboto;
+font-style: normal;
+font-size: 19px;
+line-height: 42px;
+color: #000000;
+}
+
+.image1{
+    position: absolute;
+width: 130px;
+height: 49px;
+left: 154px;
+top: 873px;
+border-radius: 8px;
+background: url('../assets/get-it-on-google-play-badge.png');
+
+}
+
+.image2{
+    position: absolute;
+width: 130px;
+height: 49px;
+left: 345px;
+top: 873px;
+border-radius: 8px;
+background: url('../assets/badge-example-preferred_2x.png')
+
+}
+
+
+.link1{
+    position: absolute;
+width: 50px;
+height: 33px;
+left: 925px;
+top: 873px;
+
+background: #FFFFFF;
+}
+
+.link2{
+    position: absolute;
+width: 150px;
+height: 33px;
+left: 977px;
+top: 873px;
+
+background: #FFFFFF;
+}
+
+.link-btn{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 16px;
+
+position: absolute;
+width: 109px;
+height: 34px;
+left: 1130px;
+top: 873px;
+font-weight: bold;
+background: #FAFF0D;
+border-radius: 4px;
+box-shadow: 10px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.front-view{
+position: absolute;
+width: 400px;
+height: 222px;
+left: 812px;
+top: 172px;
+border-radius: 4px;
+background:url("../assets/why-online-teaching-is-replacing-offline-classes.png");
+
+}
+
+.subhome{
+    position: absolute;
+width: 1349px;
+height: 608px;
+left: 0px;
+top: 1069px;
+
+background: #FF9D1A;
+}
+
+.subhome1{
+    position: absolute;
+    width: 450px;
+    height: 206px;
+    left: 220px;
+    top: 224px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 75px;
+    
+    color: #000000;
+
+}
+
+.subhome2{
+    position: absolute;
+    width: 450px;
+    height: 206px;
+    left: 250px;
+    top: 274px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 75px;
+    
+    color: #000000;
+
+}
+
+.subhome3{
+    position: absolute;
+width: 500px;
+height: 622px;
+left: 768px;
+top: 142px;
+
+background: #FAFF0D;
+border-radius: 40px;
+}
+
+.sub{
+    position: absolute;
+width: 398px;
+height: 116px;
+left: 135px;
+top: 103px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 43px;
+color: #000000;
+}
+
+.sub1{
+    position: absolute;
+width: 398px;
+height: 116px;
+left: 228px;
+top: 127px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 43px;
+color: #000000;
+}
+
+.sub2{
+    position: absolute;
+width: 360px;
+height: 220px;
+left: 68px;
+top: 237px; 
+    
+
+background: url('../assets/download.jpeg');
+border-radius: 30px;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 6px;
+}
+
+.sub-home{
+    position: absolute;
+    width: 1349px;
+    height: 1108px;
+left: 0px;
+top: 1677px; 
+background:white;
+}
+
+.sub-home1{
+    position: absolute;
+width: 1446px;
+height: 65px;
+left: 351px;
+top: 157px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 24px;
+/* or 40% */
+
+letter-spacing: 0.3px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+.btnsubhome1{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 16px;
+
+position: absolute;
+width: 147px;
+height: 55px;
+left: 209px;
+top: 255px;
+color: white;
+background: #F19D26;
+border: 4px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 1px 4px rgba(252, 17, 17, 0.14);
+border-radius: 10px;
+
+}
+
+.btnsubhome2{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 16px;
+
+position: absolute;
+width: 167px;
+height: 55px;
+left: 559px;
+top: 255px;
+color: rgb(245, 243, 239);
+background: #F19D26;
+border: 4px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 1px 4px rgba(252, 17, 17, 0.14);
+border-radius: 10px;
+
+}
+
+.btnsubhome3{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 16px;
+
+position: absolute;
+width: 147px;
+height: 55px;
+left: 909px;
+top: 255px;
+color: white;
+background: #F19D26;
+border: 4px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 1px 4px rgba(252, 17, 17, 0.14);
+border-radius: 10px;
+
+}
+
+.selectgrade{
+    position: absolute;
+width: 247px;
+height: 55px;
+left: 49px;
+top: 365px;
+font-size: 25px;
+font-family: Roboto;
+font-weight: bold;
+
+}
+
+.selectgrade1{
+    position: absolute;
+width: 1247px;
+height: 55px;
+left: 60px;
+top: 425px;
+font-size: 25px;
+font-family: Roboto;
+font-weight: bold;
+
+}
+
+
+.selectgrade22{
+    display: none;
+    position: absolute;
+width: 647px;
+height: 555px;
+left: 10px;
+top: 75px;
+font-size: 25px;
+font-family: Roboto;
+font-weight: bold;
+
+
+}
+
+/* .selectgrade1:hover .selectgrade22 { 
+    display: block;
+} */
+
+.buttongradecss{
+position: absolute;
+width: 494px;
+top:523px;
+height: 496px;
+left: 90px;
+
+background: #C4C4C4;
+}
+
+.buttongradecss1{
+    position: absolute;
+    width: 494px;
+    top:123px;
+    height: 496px;
+    left: 220px;
+    font-size: 23px;
+    
+    }
+    
+   

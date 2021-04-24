@@ -1,0 +1,21 @@
+.grades{
+    position: absolute;
+    width: 594px;
+    height: 496px;
+    margin-top: 3rem;
+    left:260px;
+    background: #C4C4C4;
+}
+
+.grades img{
+    margin-top: 6rem;
+    margin-left: 4rem;
+    border-radius: 6px;
+}
+
+.grades1{
+    margin-top: -10rem;
+    margin-left: 19rem;
+    font-weight: bold;
+    font-size: large;
+}
